@@ -68,6 +68,6 @@
 </p>
 
 <p>
-  <img height="180em" width="45%" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=alpaka206&show_icons=true&include_all_commits=true&bg_color=30,c2e59c,64b3f4&title_color=fff&text_color=fff">
-  <img height="180em" width="48%" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=alpaka206&layout=compact&bg_color=30,c2e59c,64b3f4&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=alpaka206&show_icons=true&include_all_commits=true&bg_color=30,c2e59c,64b3f4&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=alpaka206&layout=compact&bg_color=30,c2e59c,64b3f4&title_color=fff&text_color=fff">
 </p>
