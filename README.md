@@ -9,8 +9,7 @@
 --!>
 <h3 align="left">📬 Contact Me</h3>
 <div align="left">
-  <a href="https://alpaka206.vercel.app/"><img src="https://img.shields.io/badge/-Blog-black?style=for-the-badge"></a>
-  <a href="https://alpaka206.vercel.app/"><img src="https://img.shields.io/badge/-HomePage-brightgreen?style=for-the-badge"></a>
+  <a href="https://alpaka206.vercel.app/"><img src="https://img.shields.io/badge/-Blog-brightgreen?style=for-the-badge"></a>
   <a href="gyuwon05@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gyuwon05@gmail.com"/></a>
   <a href="https://www.instagram.com/alpaka_dev/"><img src="https://img.shields.io/badge/Insta-ff69b4?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
   <a href="https://www.linkedin.com/in/규원-김-957a6b320/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
