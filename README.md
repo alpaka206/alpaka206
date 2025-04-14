@@ -60,8 +60,12 @@
 
 <h3 align="left">💻 Projects</h3>
 <p align="start">
+<a href="https://github.com/COMAtching">
 <img width="15%" alt="image" src="https://quiet-nitrogen-6d5.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc09822b0-3096-4de2-95cb-8a6c28793091%2Ff423eec7-0177-4202-8a0d-c548ef3742ba%2FPlugin_icon_-_1.png?table=block&id=b9920b88-4496-4b17-9ea1-80c793faa2d5&spaceId=c09822b0-3096-4de2-95cb-8a6c28793091&width=2000&userId=&cache=v2">
+</a>
+<a href="https://github.com/share-it-cuk">
 <img width="15%" alt="image" src="https://quiet-nitrogen-6d5.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc09822b0-3096-4de2-95cb-8a6c28793091%2F3b55c797-4d1a-4263-8749-aba349114940%2FUntitled.png?table=block&id=10f57ae0-4350-4af9-be16-0cd882e0e0c7&spaceId=c09822b0-3096-4de2-95cb-8a6c28793091&width=2000&userId=&cache=v2">
+</a>
 <img width="15%" alt="image" src="https://quiet-nitrogen-6d5.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc09822b0-3096-4de2-95cb-8a6c28793091%2F56f82cb0-5a59-431a-9a73-e6e32db23339%2F%25EC%259E%2590%25EC%2582%25B0_1_1.png?table=block&id=7f28aa25-0cfa-437e-b6c9-6d7a06593a03&spaceId=c09822b0-3096-4de2-95cb-8a6c28793091&width=930&userId=&cache=v2">
 </p>
 
