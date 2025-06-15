@@ -13,70 +13,99 @@
 ## ✨ Tech Stack ✨
 ### 🚀 Frontend
 <div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Recoil-764ABC?style=for-the-badge&logo=Recoil&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=Zustand&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?Flat&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?Flat&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?Flat&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Recoil-764ABC?Flat&logo=Recoil&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-000000?Flat&logo=Zustand&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React Query-FF4154?Flat&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?Flat&logo=Vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/axios-5A29E4?Flat&logo=axios&logoColor=white"/>
 </div>
 
 
 ### 🎨 Styling
 <div>
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vanilla--extract-99F6E4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?Flat&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vanilla--extract-99F6E4?Flat" />
 </div>
 
 ### 🧪 Test (Basic Understanding)
 <div>
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Storybook-FF4785?Flat&logo=Storybook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?Flat&logo=Jest&logoColor=white"/>
 </div>
 
 ### 🧩 Backend / Infra (Basic Understanding)
 <div>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?Flat&logo=FastAPI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?Flat&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?Flat&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?Flat&logo=PostgreSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?Flat&logo=MongoDB&logoColor=white"/>
 </div>
 
 ### 🧰 Collaboration & Deployment
 <div>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?Flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?Flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?Flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?Flat&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?Flat&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?Flat&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?Flat&logo=Firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?Flat&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS S3-569A31?style=Flat&logo=amazonaws&logoColor=white"/>
 </div>
 
 
 ## 🚀 Projects
-### 🩷 [COMATCHING](https://comatching-devs.web.app)
-> AI 기반 실시간 대학교 커플 매칭 서비스 (축제 운영 실사용: 2,095명 참여)
-- `React`, `TypeScript`, `Recoil`, `Vite`, `Redis`, `Nginx`
-- 실시간 매칭을 위한 `WebSocket(SockJS, STOMP)` 구조 설계
-- 사용자 수요에 맞춘 매칭 로직 최적화 및 상태 관리 구조 설계
-- 💻 [Ver 3](https://github.com/COMAtching)
+<div style="display: flex; align-items: center;">
+    <a href="https://comatching-devs.web.app">
+      <img src="https://alpaka206.vercel.app/_next/image?url=https%3A%2F%2Fwww.notion.so%2Fimage%2Fhttps%253A%252F%252Fprod-files-secure.s3.us-west-2.amazonaws.com%252F98d46c85-70ce-4465-9e57-0e26b90574f6%252F34b31de9-5f8c-427c-a4c8-9bd81a963906%252FPlugin_icon_-_1.png%3Ftable%3Dblock%26id%3D185f892b-1daf-804c-adbe-e58b4479a1c2%26cache%3Dv2&w=1920&q=75" align="left" height="96px" width="96px" alt="COMATCHING Logo"/>
+    </a>
+    <div style="margin-left: 10px;">
+        <strong>COMATCHING – AI 기반 실시간 커플 매칭 서비스</strong>
+        <br>
+        Role: Front-End Developer
+        <br>
+        <code>React</code>, <code>TypeScript</code>, <code>Recoil</code>, <code>Vite</code>, <code>axios</code>, <code>AWS</code>
+        <br>
+        🔗 <a href="https://comatching-devs.web.app">서비스 바로가기</a> | 💻 <a href="https://github.com/COMAtching">GitHub Repository</a>
+    </div>
+</div>
+<br>
+<div style="display: flex; align-items: center;">
+    <a href="https://fc.comatching.site">
+      <img src="https://velog.velcdn.com/images/alpaka206/post/41adbdfd-9d2e-465f-b4b4-790c14f9b443/image.png" align="left" height="96px" width="96px" alt="friends community Logo"/>
+    </a>
+    <div style="margin-left: 10px;">
+        <strong>부천FC friends community – 축구 응원성향 AI 친구 매칭 서비스</strong>
+        <br>
+        Role: Front-End Developer
+        <br>
+        <code>React</code>, <code>JavaScript</code>, <code>Recoil</code>, <code>Vite</code>, <code>axios</code>, <code>AWS</code>
+        <br>
+        🔗 <a href="https://fc.comatching.site/">서비스 바로가기</a> | 💻 <a href="https://github.com/COMAtching/COMATCHING_FC_FE">GitHub Repository</a>
+    </div>
+</div>
+<br>
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/alpaka206/share-it-frontend">
+    <img src="https://alpaka206.vercel.app/_next/image?url=https%3A%2F%2Fwww.notion.so%2Fimage%2Fhttps%253A%252F%252Fprod-files-secure.s3.us-west-2.amazonaws.com%252F98d46c85-70ce-4465-9e57-0e26b90574f6%252F05bdc7e4-ace7-4483-8522-a197331056bc%252FPlugin_icon_-_1.png%3Ftable%3Dblock%26id%3D185f892b-1daf-801f-be11-e5ee3db98155%26cache%3Dv2&w=1920&q=75" align="left" height="96px" width="96px" alt="Share-It Logo"/>
+  </a>
+  <div style="margin-left: 10px;">
+    <strong>Share-It – 중고 물품 공유 및 대여 플랫폼</strong>
+    <br>
+    Role: Front-End Developer
+    <br>
+    <code>React</code>, <code>JavaScript</code>, <code>Recoil</code>, <code>axios</code>, <code>Firebase</code>
+    <br>
+    💻 <a href="https://github.com/share-it-cuk/share-it-frontend">GitHub Repository</a>
+  </div>
+</div>
+<br>
 
----
-
-### 📦 [Share-It](https://github.com/alpaka206/share-it-frontend)
-> 중고 물품 공유 플랫폼, 지역 기반 게시글 등록 및 대여 시스템
-
-- `React`, `Zustand`, `Styled-components`, `Firebase`, `React Query`
-- 카테고리/검색 기반 무한 스크롤 구현
-- 반응형 디자인 및 `Firebase Storage` 기반 이미지 업로드 구현
-
----
 
 <p>
   <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=alpaka206&show_icons=true&include_all_commits=true&bg_color=30,c2e59c,64b3f4&title_color=fff&text_color=fff">
